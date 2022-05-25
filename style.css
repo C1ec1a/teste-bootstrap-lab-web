@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+* {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.navbar {
+    background-color: #c7ba99;
+
+}
+
+.quem-somos {
+    background-color: #e5c471;
+    color: white;
+
+}
+
+.produtos {
+    background-color: #a3946f;
+    color: white;
+}
+
+.contatos{
+    background-color: #b6903064;
+   
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.bg-footer {
+    background-color: #c7ba99;
+    font-weight: bold;
+
+}
